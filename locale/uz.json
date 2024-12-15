@@ -1,0 +1,65 @@
+{
+  "choose_language": "Tilni tanlang / Выберите язык:",
+  "language_chosen": "Til muvaffaqiyatli tanlandi!",
+  "start_welcome": "Xush kelibsiz! Keling, tezkor ro'yxatdan o'tamiz.",
+  "ask_name": "Ismingiz nima?",
+  "ask_city": "Qaysi shahardasiz?",
+  "ask_contact": "Bog'lanish uchun telefon yoki Emailingizni kiriting:",
+  "ask_role": "Siz mutaxassismisiz? (ha/yo'q)",
+  "ask_service_category": "Ixtisoslashgan xizmat turini kiriting:",
+  "ask_experience": "Tajriba (yillarda):",
+  "ask_region": "Ishlash hududingizni kiriting:",
+  "registration_complete_client": "Siz mijoz sifatida muvaffaqiyatli ro'yxatdan o'tdingiz! 👤",
+  "registration_complete_specialist": "Siz mutaxassis sifatida muvaffaqiyatli ro'yxatdan o'tdingiz! 👨‍🔧",
+  "returning_user": "Yana xush kelibsiz!",
+
+  "main_menu_client": "Asosiy menyu (Mijoz):",
+  "btn_search_specialist": "🔍 Mutaxassis topish",
+  "btn_new_order": "➕ Buyurtma yaratish",
+  "btn_my_orders": "📦 Mening buyurtmalarim",
+  "btn_profile": "👤 Profil",
+  "btn_leave_review": "⭐ Sharh",
+  "btn_change_language": "🔄 Tilni o'zgartirish",
+
+  "main_menu_specialist": "Asosiy menyu (Mutaxassis):",
+  "btn_view_new_orders": "📝 Yangi buyurtmalar",
+  "btn_edit_profile": "⚙️ Profilni tahrirlash",
+
+  "main_menu_admin": "Admin paneli:",
+  "btn_users_list": "👥 Foydalanuvchilar",
+  "btn_orders_stat": "📊 Buyurtmalar statistikasi",
+  "btn_reviews_moderation": "⭐ Sharhlarni moderatsiya qilish",
+  "btn_block_user": "🚫 Foydalanuvchini bloklash",
+  "btn_unblock_user": "✅ Foydalanuvchini blokdan chiqarish",
+
+  "no_orders_found": "Hozircha buyurtmalar mavjud emas.",
+  "your_profile": "Sizning profilingiz:\nIsm: {name}\nShahar: {city}\nKontakt: {contact}\nRol: {role}\nToifa: {cat}\nTajriba: {exp}\nHudud: {region}\nReyting: {rating}",
+  "role_client": "Mijoz",
+  "role_specialist": "Mutaxassis",
+
+  "category_prompt": "Mutaxassislarni qidirish uchun toifani kiriting:",
+  "no_specialists_found": "Mutaxassislar topilmadi.",
+  "specialists_list": "Mutaxassislar:",
+
+  "enter_order_desc": "Buyurtmani ta'riflab bering:",
+  "enter_order_category": "Buyurtma toifasi:",
+  "enter_order_time": "Afzal ko'rilgan vaqt:",
+  "enter_order_location": "Buyurtma bajariladigan joy:",
+  "order_created": "Buyurtma yaratildi! ✅",
+  "your_orders": "Sizning buyurtmalaringiz:",
+
+  "leave_review_for": "Mutaxassisga sharh qoldiring (format: <Mutaxassis ID> <baholash(1-5)> <matn>):",
+  "review_submitted": "Sharh qoldirildi. Rahmat!",
+
+  "admin_access_denied": "Sizda admin huquqlari yo'q.",
+  "no_permission": "Yetarli huquqlar mavjud emas.",
+  "user_blocked": "Foydalanuvchi bloklandi.",
+  "user_unblocked": "Foydalanuvchi blokdan chiqarildi.",
+
+  "notifications_on": "Bildirishnomalar yoqilgan.",
+  "notifications_off": "Bildirishnomalar o'chirilgan.",
+
+  "choose_option": "Variantni tanlang:",
+  "language_menu_title": "Tilni tanlang:",
+  "language_changed": "Til o'zgartirildi!"
+}
